@@ -1,0 +1,26 @@
+<annotation>
+    <folder>train</folder>
+    <filename>IMG_20220220_122912.jpg</filename>
+    <path>C:\Users\ELCOT\IdeaProjects\S.L.A.I Code\Tensorflow\Workspace\Images\AllImages\IMG_20220220_122912.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3000</width>
+        <height>4000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>four</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>490</xmin>
+            <ymin>980</ymin>
+            <xmax>2235</xmax>
+            <ymax>1875</ymax>
+        </bndbox>
+    </object>
+</annotation>
