@@ -1,0 +1,127 @@
+***** add uiis on_stop def *****
+
+
+table cols: nid, name, type (verbs, process, subject), data
+verbs: present, past, (s): Done
+==============================
+
+> changeable of sentences like add after that give that type with activation---
+- change sentence as --
+- change sentence, after word --
+- work is (addable-w:name)
+- add description to, word and process
+
+
+-==-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=---=-=-=-=-=-=-=-=-=-=-=---=-=-=-
+question = work + answer -----
+
+values = [neurons ,[control,]]
+- show
+-==-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=---=-=-=-=-=-=-=-=-=-=-=---=-=-=-
+
+
+
+
+
+
+
+
+
+
+****************************************************************************
+
+
+
+
+
+
+
+
+what was your name?+
+my name was+
+are you fine+
+hv s v+
+
+yes/no, s hv v+
+
+do, does, did+
+am, is, are+
+was, were,+
+will, shall+
+
+wh: what, when, where, who, whom, which, whose, why, how+
+
+
+telling sentence:+
+present:  s + v1 + o(s)
+past   :  s + v2 + o
+future :  s + will/shall + v + o
+
+
+
+
+where was she do?+
+i'm fine+
+
+when did she love?+
+she loved+
+
+questioning:
+wh + auxiliary + s + v+
+
+answering:
+s v auxiliary answer+
+
+
+
+teach will be tense, timed, controller
+modification, creation, information
+permission(password)
+
+- process with restriction, delete
+- system: and, or
+- add time and tense
+l: with memory id with tense ad all data
+
+
+# sentence: trained data---
+if there:
+    listed = [words, answer]
+    if words == listed[0]:
+        output = listed[1]
+        engine
+else:
+    engine
+
+engine---
+
+
+--------------------------------------------------------------------------------
+
+
+
+changeable file:
+    1. uiis
+    2. file_handler
+    3. file_helper
+
+constant file (updated in report):
+    1. Object Detection (Un Resolved)
+    2. SpEngine (modified)
+    3. SpREngine
+    4. Vision Engine
+
+music:
+ela ela, eto li---
+rasputin---
+Dikaye---
+dernniere danse---
+el lenguaje---
+he is a pirate---
+ever try ever fail(Turkish)---
+plevne marsi
+
+
+print(199+404+49+370+226+388+295+64+153+600+191)
+
+
